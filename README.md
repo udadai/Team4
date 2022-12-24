@@ -4,8 +4,8 @@
 __[Team4]__ 👨🏻‍💻 <br>
   
   `조성환`<br>
-  - [블로그📑]()
-  - 목표🔥 :   <br>
+  - [블로그📑](https://rnrn213.github.io/)
+  - 목표🔥 : Effective Python 완독, Deep dive in to DL 절반 이상 공부  <br>
   
   `김동인`<br>
   - [블로그📑]()
@@ -19,4 +19,4 @@ __[Team4]__ 👨🏻‍💻 <br>
   - [블로그📑]()
   - 목표🔥 : 
   
-- 팀 목표 : Effective Python 완독, Deep dive in to DL 절반 이상 공부, 데이콘 대회 참가
+- 팀 목표 : 데이콘 대회 참가
