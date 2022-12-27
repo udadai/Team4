@@ -16,7 +16,7 @@ __[Team4]__ 👨🏻‍💻 <br>
   - 목표🔥 :  <br>
   
   `김민종`<br>
-  - [블로그📑]()
-  - 목표🔥 : 
+  - [블로그📑](https://velog.io/@koust6u)
+  - 목표🔥 : Effective Python 완독, Deep dive in to DL 절반 이상 공부 
   
 - 팀 목표 : 데이콘 대회 참가
