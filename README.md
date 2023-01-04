@@ -13,7 +13,7 @@ __[Team4]__ 👨🏻‍💻 <br>
   
   `박유정`<br>
   - [블로그📑](https://udadai.github.io/)
-  - 목표🔥 : Effective Python 완독, Deep dive in to DL 절반 이상 공부, 선형대수학  <br>
+  - 목표🔥 : Effective Python 공부, Deep dive in to DL 공부, 선형대수학 복습 <br>
   
   `김민종`<br>
   - [블로그📑](https://velog.io/@koust6u)
